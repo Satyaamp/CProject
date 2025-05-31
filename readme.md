@@ -88,6 +88,7 @@ student_manager/
 * **Name:** Satyam Kumar
 * **GitHub:** [Satyaamp](https://github.com/Satyaamp)
 
+```
 ---
 
 ## ✅ 2. **Library Book Management System**
