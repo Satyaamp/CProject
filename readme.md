@@ -32,6 +32,7 @@ gcc student_manager.c -o student_manager
 ./student_manager
 ````
 
+````
 ---
 
 ## 📦 Sample Output
@@ -88,7 +89,6 @@ student_manager/
 * **Name:** Satyam Kumar
 * **GitHub:** [Satyaamp](https://github.com/Satyaamp)
 
-```
 ---
 
 ## ✅ 2. **Library Book Management System**
